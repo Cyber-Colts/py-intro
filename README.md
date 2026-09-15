@@ -10,6 +10,7 @@ Introduction to python &amp; linux
 5. scouting.py
 6. battery-monitor.py
 7. robot-calc.py
+8. robot-status.py
    
 # Explanation
 - The files are in order of difficulty each with a chellenge. Your task is solve each challenges using python and improving each program.
