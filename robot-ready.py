@@ -1,3 +1,5 @@
+# Example 3 — Is the Robot Ready?
+
 print("=== Robot Readiness Check ===")
 
 battery_ok = input("Is the battery connected and charged? (yes/no): ").lower() == "yes"
@@ -13,3 +15,15 @@ if robot_ready:
 else:
     print("Robot is NOT ready.")
     print("Check the missing requirements.")
+
+"""
+Challenge
+
+Add two more requirements:
+
+Radio connected
+
+Driver station working
+
+Bonus: Print exactly which requirement failed instead of only saying the robot is not ready.
+"""
