@@ -2,16 +2,16 @@
 
 print("=== FRC Team Introduction ===")
 
-team_name = input("What is your team name? ")
-team_number = input("What is your team number? ")
-student_name = input("What is your name? ")
+team_name = input("What is your team name? ") # define team name
+team_number = input("What is your team number? ") # define team number 
+student_name = input("What is your name? ") # define the students name
 
-print()
-print(f"Welcome, {student_name}!")
-print(f"You are part of {team_name}, Team {team_number}.")
+print() # print text brought from vars
+print(f"Welcome, {student_name.capitalize()}!") 
+print(f"You are part of {team_name.capitalize()}, Team #{team_number}.")
 print("Let's build something awesome!")
 
-"""
+""" 
 Challenge:
 Add proper capitalization to the team name and student name.
 """

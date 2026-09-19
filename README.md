@@ -1,6 +1,8 @@
 # py-intro
 Introduction to Python & Linux
 
+# MODIFIED DURING THE WORKSHOP
+
 ## File order
 1. intro.py
 2. battery.py
