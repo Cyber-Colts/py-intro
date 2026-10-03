@@ -7,7 +7,7 @@ Introduction to Python & Linux
 1. intro.py
 2. battery.py
 3. robot-ready.py
-4. match-time.py
+4. **match-time.py**
 5. scouting.py
 6. battery-monitor.py
 7. robot-calc.py
